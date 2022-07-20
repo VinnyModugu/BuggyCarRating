@@ -1,2 +1,1 @@
-# Project name : BuggyCarRating
-Automation Testing guidelines 
+# BuggyCarRating Automation Testing guidelines 
