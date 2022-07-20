@@ -1,1 +1,1 @@
-# BuggyCarRating Automation Testing guidelines 
+# BuggyCarRating App - Automation Testing guidelines 
