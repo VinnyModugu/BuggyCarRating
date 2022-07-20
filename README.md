@@ -21,3 +21,10 @@
 In INTELLIJ IDE, go to "Buggy Test Suite" project and then Right click and then click Run All Tests. Very Simple.
 
 
+# Documentation
+**Test Approch**
+https://github.com/VinnyModugu/BuggyCarRating/blob/main/Test%20Approach.pdf
+
+
+**Defect Report**
+https://github.com/VinnyModugu/BuggyCarRating/blob/main/Defect%20report.pdf
